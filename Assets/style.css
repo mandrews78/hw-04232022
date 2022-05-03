@@ -1,0 +1,21 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+}
+
+.section-blue {
+    background-color: slategray;
+    color: black;
+}
+
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: red;
+}
+section {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 5px solid black;
+  }
